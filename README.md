@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **surajrajputsg@gmail.com**
 
-- 📄 Know about my experiences **[Resume]**(https://drive.google.com/file/d/1-CllamLsDQyLlZ958lJKlJFYldUZ16oa/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-CllamLsDQyLlZ958lJKlJFYldUZ16oa/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
