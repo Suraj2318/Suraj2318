@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Girase</h1>
 <h3 align="center">Transforming data into actionable insights to drive business decisions and solve real-world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj2318&label=Profile%20views&color=0e75b6&style=flat" alt="suraj2318" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj2318" alt="suraj2318" /></a> </p>
-
 - 🌱 I’m currently learning **Business Process Modeling (BPMN) | Requirements Gathering and Elicitation | User Stories & Acceptance Criteria | Agile Methodology | ETL (Extract, Transform, Load) | Data-Driven Decision Making | Data Visualization**
 
 - 👯 I’m looking to collaborate on **Data Analysis, Business Analysis, and Data Science projects.**
